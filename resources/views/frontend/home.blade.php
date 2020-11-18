@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="vi"
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dịch vụ Shopee</title>
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="-1">
@@ -453,19 +454,19 @@
                                         <div id="GROUP132" class="ladi-element">
                                             <div class='ladi-group'>
                                                 <div id="HEADLINE120" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 5-10 sản phẩm ~10-20 comment đánh giá chất lượng 5* ~200 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 5-10 sản phẩm ~10-20 comment đánh giá chất lượng 5* ~250 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE121" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 10-15 sản phẩm ~25-30 comment đánh giá chất lượng 5* ~300 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 10-15 sản phẩm ~20-30 comment đánh giá chất lượng 5* ~300 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE122" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff 10-20 sản phẩm ~35-50 comment đánh giá chất lượng 5* ~750 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff 10-20 sản phẩm ~40-50 comment đánh giá chất lượng 5* ~750 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE123" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff 20 sản phẩm ~60-80 comment đánh giá chất lượng 5* ~1000 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff 10-20 sản phẩm ~60-80 comment đánh giá chất lượng 5* ~1000 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE124" class="ladi-element">
-                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói ưu đãi 5:</span> Buff toàn shop dưới 100 sản phẩm 100 comment đánh giá chất lượng ~1500 lượt bán</h3>
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói ưu đãi 5:</span> Buff 20-50 sản phẩm ~80-100 comment đánh giá chất lượng 5* ~1500 lượt bán</h3>
                                                 </div>
                                             </div>
                                         </div>
