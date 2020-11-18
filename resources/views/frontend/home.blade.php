@@ -6,13 +6,13 @@
     <title>Dịch vụ Shopee</title>
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="-1">
-    <meta name="keywords" content="dich vu shopee, shopee one, dịch vụ shopee">
-    <meta name="description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shoppe">
-    <meta property="og:url" content="http://www.dichvushopeeone.com" />
+    <meta name="keywords" content="dich vu shopee, shopee tb, dịch vụ shopee">
+    <meta name="description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shopee">
+    <meta property="og:url" content="http://www.dichvushopeetb.com" />
     <meta property="og:title" content="Dịch vụ shopee" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="5d2401a7f61f2351bed8557e/5c0fe2430300f95ea011-20200415162607.jpg">
-    <meta property="og:description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shoppe" />
+    <meta property="og:image" content="/img/logo-shopee.png">
+    <meta property="og:description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shopee" />
     <meta name="format-detection" content="telephone=no" />
 
     <link rel="preload" href="{{ asset('v2/source/ladipage.min.js?v=1588161697899') }}" as="script">
@@ -236,7 +236,7 @@
                         <div id="GROUP238" class="ladi-element">
                             <div class='ladi-group'>
                                 <div id="HEADLINE17" class="ladi-element">
-                                    <h3 class='ladi-headline'>GIỚI THIỆU VỀ DỊCH VỤ SHOPEE ONE</h3>
+                                    <h3 class='ladi-headline'>GIỚI THIỆU VỀ DỊCH VỤ SHOPEE TB</h3>
                                 </div>
                                 <div id="HEADLINE21" class="ladi-element">
                                     <h3 class='ladi-headline'>Cung cấp dịch vụ hỗ trợ bán hàng hiệu quả trên Shopee&nbsp;</h3>
@@ -303,7 +303,7 @@
                 <div id="GROUP244" class="ladi-element">
                     <div class='ladi-group'>
                         <div id="HEADLINE13" class="ladi-element">
-                            <h3 class='ladi-headline'>DỊCH VỤ SHOPEE ONE</h3>
+                            <h3 class='ladi-headline'>DỊCH VỤ SHOPEE TB</h3>
                         </div>
                         <div id="GROUP240" class="ladi-element">
                             <div class='ladi-group'>
@@ -453,16 +453,16 @@
                                         <div id="GROUP132" class="ladi-element">
                                             <div class='ladi-group'>
                                                 <div id="HEADLINE120" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff sản phẩm ~15-20 comment đánh giá chất lượng 5* 100~150 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 5-10 sản phẩm ~15-20 comment đánh giá chất lượng 5* 100~150 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE121" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff sản phẩm ~25-30 comment đánh giá chất lượng 5* 250~300 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 10-15 sản phẩm ~25-30 comment đánh giá chất lượng 5* 250~300 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE122" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff sản phẩm ~35-50 comment đánh giá chất lượng 5* ~600 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff 10-20 sản phẩm ~35-50 comment đánh giá chất lượng 5* ~600 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE123" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff sản phẩm ~60-80 comment đánh giá chất lượng 5* ~1000 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff 20 sản phẩm ~60-80 comment đánh giá chất lượng 5* ~1000 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE124" class="ladi-element">
                                                     <h3 class='ladi-headline'><span style="font-weight: bold;">Gói combo đặc biệt:</span> Buff full toàn shop dưới 100 sản phẩm</h3>
@@ -660,7 +660,7 @@
                             <div class="ladi-overlay"></div>
                         </div>
                         <div id="HEADLINE37" class="ladi-element">
-                            <h3 class='ladi-headline'>Dịch vụ SHOPEE ONE đã đươc rất nhiều khách hàng yên tâm, tin tưởng hợp tác.
+                            <h3 class='ladi-headline'>Dịch vụ SHOPEE TB đã đươc rất nhiều khách hàng yên tâm, tin tưởng hợp tác.
                                 <br>Các khách hàng đều thu được kết quả bán hàng rất tốt sau khi sử dụng dịch vụ của chúng tôi
                                 <br>Sự tin tưởng của khách hàng chính là động lực để chúng tôi nỗ lực phát triển hơn nữa mang đến những lợi ích tốt nhất cho khách hàng.&nbsp;<br></h3>
                         </div>
@@ -673,7 +673,7 @@
                     </div>
                 </div>
                 <div id="HEADLINE284" class="ladi-element">
-                    <h3 class='ladi-headline'>+10000 người đang sử dụng dịch vụ SHOPPE ONE</h3>
+                    <h3 class='ladi-headline'>+10000 người đang sử dụng dịch vụ SHOPEE TB</h3>
                 </div>
                 <div id="GROUP317" class="ladi-element">
                     <div class='ladi-group'>
@@ -956,7 +956,7 @@
                             </form>
                         </div>
                         <div id="HEADLINE285" class="ladi-element">
-                            <h3 class='ladi-headline'>Liên hệ với chúng tôi , chỉ 3 phút DỊCH VỤ ONE sẽ điện lại và tư vấn những thắc mắc cho quý khách</h3>
+                            <h3 class='ladi-headline'>Liên hệ với chúng tôi , chỉ 3 phút DỊCH VỤ shopee tb sẽ điện lại và tư vấn những thắc mắc cho quý khách</h3>
                         </div>
                         <div id="GROUP293" class="ladi-element">
                             <div class='ladi-group'>
@@ -990,7 +990,7 @@
                 <div id="GROUP254" class="ladi-element">
                     <div class='ladi-group'>
                         <div id="HEADLINE64" class="ladi-element">
-                            <h3 class='ladi-headline'>Dịch vụ Shopee ONE&nbsp;</h3>
+                            <h3 class='ladi-headline'>Dịch vụ Shopee TB&nbsp;</h3>
                         </div>
                         <div id="HEADLINE65" class="ladi-element">
                             <h3 class='ladi-headline'>LIÊN HỆ CHÚNG TÔI</h3>
@@ -1002,16 +1002,16 @@
                             <h3 class='ladi-headline'>Hotline : 0869.178.297</h3>
                         </div>
                         <div id="HEADLINE68" class="ladi-element">
-                            <h3 class='ladi-headline'>Email : dichvushopeeone@gmail.com</h3>
+                            <h3 class='ladi-headline'>Email : dichvushopeetb@gmail.com</h3>
                         </div>
                         <div id="HEADLINE69" class="ladi-element">
                             <h3 class='ladi-headline'>THEO DÕI CHÚNG TÔI TRÊN MẠNG XÃ HỘI</h3>
                         </div>
                         <div id="HEADLINE70" class="ladi-element">
-                            <h3 class='ladi-headline'>Tham gia group để theo dõ những bài viết mới và hỗ trợ nhau bán hàng </h3>
+                            <h3 class='ladi-headline'>Theo dõi fanpage của chúng tôi để theo dõi những bài viết mới và hỗ trợ nhau bán hàng</h3>
                         </div>
                         <div id="HEADLINE71" class="ladi-element">
-                            <h3 class='ladi-headline'>Group : https://www.facebook.com/groups/SUBSHOPEE</h3>
+                            <h3 class='ladi-headline'>Fanpage : https://www.facebook.com/C.I.O.Support.Shopee</h3>
                         </div>
                         <div id="HEADLINE251" class="ladi-element">
                             <h3 class='ladi-headline'>UY TÍN - CHUYÊN NGHIỆP - AN TOÀN</h3>
