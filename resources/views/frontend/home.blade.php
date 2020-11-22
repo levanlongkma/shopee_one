@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dịch vụ Shopee</title>
+    <title>Dịch vụ Shopee - Uy tín - Chuyên nghiệp - An toàn</title>
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="keywords" content="dich vu shopee, shopee tb, dịch vụ shopee">
@@ -574,7 +574,7 @@
                                             <h3 class='ladi-headline'>150.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE167" class="ladi-element">
-                                            <h3 class='ladi-headline'>250.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>200.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE168" class="ladi-element">
                                             <h3 class='ladi-headline'>300.000 VNĐ<br></h3>
