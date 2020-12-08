@@ -412,7 +412,7 @@
                         <div id="GROUP224" class="ladi-element">
                             <div class='ladi-group'>
                                 <div id="HEADLINE116" class="ladi-element">
-                                    <h3 class='ladi-headline'>DỊCH BỤ BUFF ĐƠN ẢO TĂNG DOANH SỐ BÁN HÀNG</h3>
+                                    <h3 class='ladi-headline'>DỊCH VỤ BUFF ĐƠN ẢO TĂNG DOANH SỐ BÁN HÀNG</h3>
                                 </div>
                                 <div id="GROUP219" class="ladi-element">
                                     <div class='ladi-group'>
@@ -661,7 +661,7 @@
                             <div class="ladi-overlay"></div>
                         </div>
                         <div id="HEADLINE37" class="ladi-element">
-                            <h3 class='ladi-headline'>Dịch vụ SHOPEE TB đã đươc rất nhiều khách hàng yên tâm, tin tưởng hợp tác.
+                            <h3 class='ladi-headline'>Dịch vụ SHOPEE đã đươc rất nhiều khách hàng yên tâm, tin tưởng hợp tác.
                                 <br>Các khách hàng đều thu được kết quả bán hàng rất tốt sau khi sử dụng dịch vụ của chúng tôi
                                 <br>Sự tin tưởng của khách hàng chính là động lực để chúng tôi nỗ lực phát triển hơn nữa mang đến những lợi ích tốt nhất cho khách hàng.&nbsp;<br></h3>
                         </div>
