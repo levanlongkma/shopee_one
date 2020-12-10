@@ -12,7 +12,7 @@
     <meta property="og:url" content="http://www.dichvushopeetb.com" />
     <meta property="og:title" content="Dịch vụ shopee" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="/img/logo_shopee.jpg">
+    <meta property="og:image" content="/img/logo_tb.jpg">
     <meta property="og:description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shopee" />
     <meta name="format-detection" content="telephone=no" />
 
