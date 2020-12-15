@@ -15,6 +15,7 @@
     <meta property="og:image" content="/img/logo_tb.jpg">
     <meta property="og:description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shopee" />
     <meta name="format-detection" content="telephone=no" />
+    <meta name="msvalidate.01" content="A6D0C0B7EE858196E4E1D854C2D7AE06" />
 
     <link rel="preload" href="{{ asset('v2/source/ladipage.min.js?v=1588161697899') }}" as="script">
     <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
