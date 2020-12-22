@@ -67,6 +67,158 @@
                 top: 200.65px !important;
                 left: 200px !important;
             }
+            #HEADLINE125 {
+                width: 420px;
+                top: 315px;
+                left: 0px;
+            }
+            #HEADLINE125 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE126 {
+                width: 433px;
+                top: 378px;
+                left: 0px;
+            }
+            #HEADLINE126 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE127 {
+                width: 420px;
+                top: 435px;
+                left: 0px;
+            }
+            #HEADLINE127 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #LINE148 {
+                height: 490px;
+                top: 8px;
+                left: 618px;
+            }
+            #LINE148 > .ladi-line {
+                height: 100%;
+                padding: 0px 8px;
+            }
+            #LINE148 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48);
+                border-bottom: 2px solid rgb(232, 104, 48);
+                border-left: 2px solid rgb(232, 104, 48);
+            }
+            #LINE149 {
+                width: 619px;
+                top: 366.504px;
+                left: 8.5px;
+            }
+
+            #LINE149 > .ladi-line {
+                width: 100%;
+                padding: 8px 0px;
+            }
+
+            #LINE150 {
+                width: 619px;
+                top: 428.504px;
+                left: 8.5px;
+            }
+
+            #LINE150 > .ladi-line {
+                width: 100%;
+                padding: 8px 0px;
+            }
+            #LINE151 {
+                width: 619px;
+                top: 488.504px;
+                left: 8.5px;
+            }
+
+            #LINE151 > .ladi-line {
+                width: 100%;
+                padding: 8px 0px;
+            }
+            #LINE151 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48) !important;
+                border-bottom: 2px solid rgb(232, 104, 48) !important;
+                border-left: 2px solid rgb(232, 104, 48) !important;
+            }
+
+            #LINE152 {
+                height: 490px;
+                top: 8px;
+                left: 435px;
+            }
+            #LINE152 > .ladi-line {
+                height: 100%;
+                padding: 0px 8px;
+            }
+            #LINE152 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48);
+                border-bottom: 2px solid rgb(232, 104, 48);
+                border-left: 2px solid rgb(232, 104, 48);
+            }
+            #LINE153 {
+                height: 490px;
+                top: 8px;
+                left: 0px;
+            }
+            #LINE153 > .ladi-line {
+                height: 100%;
+                padding: 0px 8px;
+            }
+            #LINE153 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48);
+                border-bottom: 2px solid rgb(232, 104, 48);
+                border-left: 2px solid rgb(232, 104, 48);
+            }
+            #HEADLINE171 {
+                width: 113px;
+                top: 331.504px;
+                left: 478px;
+            }
+            #HEADLINE171 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                font-weight: bold;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE172 {
+                width: 113px;
+                top: 391.504px;
+                left: 478px;
+            }
+            #HEADLINE172 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                font-weight: bold;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE173 {
+                width: 113px;
+                top: 451.504px;
+                left: 478px;
+            }
+            #HEADLINE173 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                font-weight: bold;
+                text-align: justify;
+                line-height: 1.6;
+            }
         }
 
         .tcb-icon {
@@ -130,7 +282,7 @@
                 overflow: hidden;
             }
             .scrollRegister {
-                top: 200.65px !important;
+                top: 350.65px !important;
                 left: 130px !important;
             }
             #LINE161 {
@@ -154,9 +306,158 @@
                 left: 7.648px;
             }
             #HEADLINE118 {
-                width: 300px;
-                top: 0px;
-                left: 94px;
+                width: 403px;
+                top: -9px;
+                left: 29px;
+            }
+            #HEADLINE125 {
+                top: 392px;
+                left: 0px;
+            }
+            #HEADLINE125 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE126 {
+                top: 445px;
+                left: 0px;
+            }
+            #HEADLINE126 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE127 {
+                top: 500px;
+                left: 0px;
+            }
+            #HEADLINE127 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #LINE148 {
+                height: 560px;
+                top: 8px;
+                left: 408.148px;
+            }
+            #LINE148 > .ladi-line {
+                height: 100%;
+                padding: 0px 8px;
+            }
+            #LINE148 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48) !important;
+                border-bottom: 2px solid rgb(232, 104, 48) !important;
+                /* border-left: 2px solid rgb(232, 104, 48); */
+            }
+            #LINE149 {
+                top: 453.504px;
+                width: 410px;
+                left: 7.648px
+            }
+
+            #LINE149 > .ladi-line {
+                width: 100%;
+                padding: 8px 0px;
+            }
+
+            #LINE150 {
+                top: 505.504px;
+                width: 410px;
+                left: 7.648px
+            }
+
+            #LINE150 > .ladi-line {
+                width: 100%;
+                padding: 8px 0px;
+            }
+            #LINE151 {
+                top: 560.504px;
+                width: 410px;
+                left: 7.648px
+            }
+
+            #LINE151 > .ladi-line {
+                width: 100%;
+                padding: 8px 0px;
+            }
+            #LINE151 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48) !important;
+                border-bottom: 2px solid rgb(232, 104, 48) !important;
+                border-left: 2px solid rgb(232, 104, 48) !important;
+            }
+
+            #LINE152 {
+                height: 560px;
+                top: 8px;
+                left: 263.148px;
+            }
+            #LINE152 > .ladi-line {
+                height: 100%;
+                padding: 0px 8px;
+            }
+            #LINE152 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48) !important;
+                border-bottom: 2px solid rgb(232, 104, 48) !important;
+                /* border-left: 2px solid rgb(232, 104, 48); */
+            }
+            #LINE153 {
+                height: 560px;
+                top: 8px;
+                left: 0px;
+            }
+            #LINE153 > .ladi-line {
+                height: 100%;
+                padding: 0px 8px;
+            }
+            #LINE153 > .ladi-line > .ladi-line-container {
+                border-top: 0px !important;
+                border-right: 2px solid rgb(232, 104, 48);
+                border-bottom: 2px solid rgb(232, 104, 48);
+                border-left: 2px solid rgb(232, 104, 48);
+            }
+            #HEADLINE171 {
+                width: 113px;
+                top: 421.504px;
+                left: 297.148px;
+            }
+            #HEADLINE171 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                font-weight: bold;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE172 {
+                width: 113px;
+                top: 475.504px;
+                left: 297.148px;
+            }
+            #HEADLINE172 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                font-weight: bold;
+                text-align: justify;
+                line-height: 1.6;
+            }
+            #HEADLINE173 {
+                width: 113px;
+                top: 527.504px;
+                left: 297.148px;
+            }
+            #HEADLINE173 > .ladi-headline {
+                color: rgb(0, 0, 0);
+                font-size: 16px;
+                font-weight: bold;
+                text-align: justify;
+                line-height: 1.6;
             }
         }
     </style>
@@ -413,7 +714,7 @@
                         <div id="GROUP224" class="ladi-element">
                             <div class='ladi-group'>
                                 <div id="HEADLINE116" class="ladi-element">
-                                    <h3 class='ladi-headline'>DỊCH VỤ BUFF ĐƠN ẢO TĂNG DOANH SỐ BÁN HÀNG</h3>
+                                    <h3 class='ladi-headline'>DỊCH VỤ BUFF ĐƠN ẢO TĂNG DOANH SỐ BÁN HÀNG (thanh toán trước)</h3>
                                 </div>
                                 <div id="GROUP219" class="ladi-element">
                                     <div class='ladi-group'>
@@ -452,6 +753,36 @@
                                                 <div class="ladi-line-container"></div>
                                             </div>
                                         </div>
+                                        <div id="LINE148" class="ladi-element">
+                                            <div class='ladi-line'>
+                                                <div class="ladi-line-container"></div>
+                                            </div>
+                                        </div>
+                                        <div id="LINE149" class="ladi-element">
+                                            <div class='ladi-line'>
+                                                <div class="ladi-line-container"></div>
+                                            </div>
+                                        </div>
+                                        <div id="LINE150" class="ladi-element">
+                                            <div class='ladi-line'>
+                                                <div class="ladi-line-container"></div>
+                                            </div>
+                                        </div>
+                                        <div id="LINE151" class="ladi-element">
+                                            <div class='ladi-line'>
+                                                <div class="ladi-line-container"></div>
+                                            </div>
+                                        </div>
+                                        <div id="LINE152" class="ladi-element">
+                                            <div class='ladi-line'>
+                                                <div class="ladi-line-container"></div>
+                                            </div>
+                                        </div>
+                                        <div id="LINE153" class="ladi-element">
+                                            <div class='ladi-line'>
+                                                <div class="ladi-line-container"></div>
+                                            </div>
+                                        </div>
                                         <div id="GROUP132" class="ladi-element">
                                             <div class='ladi-group'>
                                                 <div id="HEADLINE120" class="ladi-element">
@@ -468,6 +799,15 @@
                                                 </div>
                                                 <div id="HEADLINE124" class="ladi-element">
                                                     <h3 class='ladi-headline'><span style="font-weight: bold;">Gói ưu đãi 5:</span> Buff 20-50 sản phẩm ~80-100 comment đánh giá chất lượng 5* ~1500 lượt bán</h3>
+                                                </div>
+                                                <div id="HEADLINE125" class="ladi-element">
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 1:</span> Buff 1 sản phẩm ~ 1000 lượt bán</h3>
+                                                </div>
+                                                <div id="HEADLINE126" class="ladi-element">
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 2:</span> Buff 1-3 sản phẩm 2500~3000 lượt bán</h3>
+                                                </div>
+                                                <div id="HEADLINE127" class="ladi-element">
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 3:</span> Buff 1-3 sản phẩm 6000 lượt bán</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -496,6 +836,15 @@
                                         <div id="HEADLINE170" class="ladi-element">
                                             <h3 class='ladi-headline'>1.000.000 VNĐ<br></h3>
                                         </div>
+                                        <div id="HEADLINE171" class="ladi-element">
+                                            <h3 class='ladi-headline'>500.000 VNĐ<br></h3>
+                                        </div>
+                                        <div id="HEADLINE172" class="ladi-element">
+                                            <h3 class='ladi-headline'>1.000.000 VNĐ<br></h3>
+                                        </div>
+                                        <div id="HEADLINE173" class="ladi-element">
+                                            <h3 class='ladi-headline'>2.000.000 VNĐ<br></h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -503,7 +852,7 @@
                         <div id="GROUP223" class="ladi-element">
                             <div class='ladi-group'>
                                 <div id="HEADLINE118" class="ladi-element">
-                                    <h3 class='ladi-headline'>DỊCH VỤ TĂNG FOLLOW, LIKE, VIEW</h3>
+                                    <h3 class='ladi-headline'>DỊCH VỤ TĂNG FOLLOW, LIKE, VIEW (có thể thanh toán sau với shop uy tín)</h3>
                                 </div>
                                 <div id="GROUP220" class="ladi-element">
                                     <div class='ladi-group'>
@@ -600,11 +949,6 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div id="LINE174" class="ladi-element">
-                            <div class='ladi-line'>
-                                <div class="ladi-line-container"></div>
                             </div>
                         </div>
                     </div>
