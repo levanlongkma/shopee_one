@@ -40,6 +40,13 @@
                 top: 30.379px;
                 right: -300px;
             }
+
+            #FORM_ITEM2002 {
+                width: 441.724px;
+                height: 150.207px;
+                top: 220.379px;
+                right: 0;
+            }
             .thrv_wrapper {
                 width: 56px;
                 height: 56px;
@@ -256,6 +263,13 @@
                 height: 132.207px;
                 top: 182.379px;
                 right: 0px;
+            }
+
+            #FORM_ITEM2002 {
+                width: 335.724px;
+                height: 132.207px;
+                top: 351.379px;
+                left: 0px;
             }
 
             .thrv_wrapper {
@@ -1281,6 +1295,58 @@
                                                     </div>
                                                     <div style="width: 177px;background: rgb(7, 150, 255) !important; border-radius: 8px;margin-left: 7px;">
                                                         <a href="https://zalo.me/0869178297" class="tcb-button-link tcb-plain-text" style="letter-spacing: var(--tve-letter-spacing, 2px);">
+                                                            <span class="tcb-button-icon">
+                                                                <div class="thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display" data-css="tve-u-173e8a39feb">
+                                                                    <svg class="tcb-icon" viewBox="0 0 512 512" data-id="icon-link-solid" data-name="">
+                                                                        <path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"></path>
+                                                                      </svg>
+                                                                </div>
+                                                            </span>
+                                                            <span class="tcb-button-texts">
+                                                                <span class="tcb-button-text thrv-inline-text" data-css="tve-u-173e89e6055" style="margin-left: 64px; margin-top: -25px;">Zalo</span>
+                                                                <span class="tcb-secondary-text thrv-inline-text"></span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="FORM_ITEM2002" class="ladi-element">
+                                    <div class="ladi-form-item-container">
+                                        <div class="ladi-form-item-background" style="background: rgb(240, 238, 175) !important"></div>
+                                        <div class='ladi-form-item'>
+                                            <div class="thrv_wrapper tve_image_caption" data-css="tve-u-173e8951a51" style="">
+                                                <span class="tve_image_frame">
+                                                    <img class="tve_image wp-image-121" alt="ky thuat" data-id="121" width="56" data-init-width="1280" height="56" data-init-height="1280" title="ky thuat" loading="lazy" src="/img/avt_nga.jpg" style="object-fit: cover" data-width="56" data-height="56" data-css="tve-u-173e8953c69" style="" sizes="(max-width: 56px) 100vw, 56px">
+                                                </span>
+                                            </div>
+                                            <div class="ladi-group">
+                                                <p data-css="tve-u-1747221ba34" style="margin-left: 91px; margin-top: -39px">
+                                                    <strong style="font-weight: bold"><span data-css="tve-u-1747221ba7a" style="color: rgb(232, 105, 48);">Trần Thị Thúy Nga</span></strong>
+                                                </p>
+                                                <p data-css="tve-u-173e8aa8ab2" style="margin-left: 91px; margin-top: 0px">
+                                                    <span data-css="tve-u-1747221bac0" style="color: rgb(232, 105, 48);">Hỗ trợ tư vấn</span>
+                                                </p>
+                                                <div class="" style="margin-top: 20px;display: flex;">
+                                                    <div style="width: 177px;background: rgb(32, 183, 42); border-radius: 8px;margin-left: 70px;">
+                                                        <a href="tel:0978093540" class="tcb-button-link tcb-plain-text" style="letter-spacing: var(--tve-letter-spacing, 2px);">
+                                                            <span class="tcb-button-icon">
+                                                                <div class="thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display" data-css="tve-u-173e8a39feb">
+                                                                    <svg class="tcb-icon" viewBox="0 0 24 24" data-id="icon-phone-regular" data-name="">
+                                                                        <path d="M6.62 10.79a15.15 15.15 0 0 0 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"></path>
+                                                                    </svg>
+                                                                </div>
+                                                            </span>
+                                                            <span class="tcb-button-texts">
+                                                                <span class="tcb-button-text thrv-inline-text" data-css="tve-u-173e89e6055" style="margin-left: 54px;margin-top: -27px;">0332429715</span>
+                                                                <span class="tcb-secondary-text thrv-inline-text"></span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div style="width: 177px;background: rgb(7, 150, 255) !important; border-radius: 8px;margin-left: 7px;">
+                                                        <a href="https://zalo.me/0332429715" class="tcb-button-link tcb-plain-text" style="letter-spacing: var(--tve-letter-spacing, 2px);">
                                                             <span class="tcb-button-icon">
                                                                 <div class="thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display" data-css="tve-u-173e8a39feb">
                                                                     <svg class="tcb-icon" viewBox="0 0 512 512" data-id="icon-link-solid" data-name="">
