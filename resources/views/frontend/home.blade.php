@@ -786,28 +786,28 @@
                                         <div id="GROUP132" class="ladi-element">
                                             <div class='ladi-group'>
                                                 <div id="HEADLINE120" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 5-10 sản phẩm ~10 comment đánh giá chất lượng 5* ~250 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 10 sản phẩm ~20 comment đánh giá chất lượng 5* ~200 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE121" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 10 sản phẩm ~20 comment đánh giá chất lượng 5* ~300 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 10 sản phẩm ~30 comment đánh giá chất lượng 5* ~400 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE122" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff 10-20 sản phẩm ~40 comment đánh giá chất lượng 5* ~700 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff 10 sản phẩm ~40 comment đánh giá chất lượng 5* ~600 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE123" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff 15-20 sản phẩm ~60 comment đánh giá chất lượng 5* ~1000 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff 20 sản phẩm ~60 comment đánh giá chất lượng 5* ~800 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE124" class="ladi-element">
-                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói ưu đãi 5:</span> Buff 20-50 sản phẩm ~80 comment đánh giá chất lượng 5* ~1500 lượt bán</h3>
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói ưu đãi 5:</span> Buff 20 sản phẩm ~80 comment đánh giá chất lượng 5* ~1200 lượt bán</h3>
                                                 </div>
                                                 <div id="HEADLINE125" class="ladi-element">
-                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 1:</span> Buff 1 sản phẩm ~ 1000 lượt bán</h3>
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 1:</span> Buff 1-5 sản phẩm ~ 1000 lượt bán</h3>
                                                 </div>
                                                 <div id="HEADLINE126" class="ladi-element">
-                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 2:</span> Buff 1-3 sản phẩm 2000~2500 lượt bán</h3>
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 2:</span> Buff 1-5 sản phẩm 2000 lượt bán</h3>
                                                 </div>
                                                 <div id="HEADLINE127" class="ladi-element">
-                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 3:</span> Buff 1-3 sản phẩm 5000 lượt bán</h3>
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 3:</span> Buff 1-5 sản phẩm 5000 lượt bán</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -822,28 +822,28 @@
                                             </div>
                                         </div>
                                         <div id="HEADLINE166" class="ladi-element">
-                                            <h3 class='ladi-headline'>250.000 VNĐ<br></h3>
-                                        </div>
-                                        <div id="HEADLINE167" class="ladi-element">
                                             <h3 class='ladi-headline'>300.000 VNĐ<br></h3>
                                         </div>
+                                        <div id="HEADLINE167" class="ladi-element">
+                                            <h3 class='ladi-headline'>450.000 VNĐ<br></h3>
+                                        </div>
                                         <div id="HEADLINE168" class="ladi-element">
-                                            <h3 class='ladi-headline'>500.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>600.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE169" class="ladi-element">
-                                            <h3 class='ladi-headline'>800.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>900.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE170" class="ladi-element">
-                                            <h3 class='ladi-headline'>1.000.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>1.200.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE171" class="ladi-element">
-                                            <h3 class='ladi-headline'>500.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>700.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE172" class="ladi-element">
-                                            <h3 class='ladi-headline'>1.000.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>1.400.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE173" class="ladi-element">
-                                            <h3 class='ladi-headline'>2.000.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>3.000.000 VNĐ<br></h3>
                                         </div>
                                     </div>
                                 </div>
