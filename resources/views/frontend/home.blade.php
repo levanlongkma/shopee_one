@@ -908,10 +908,10 @@
                                         <div id="GROUP132" class="ladi-element">
                                             <div class='ladi-group'>
                                                 <div id="HEADLINE120" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Tăng 2000 follow</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Tăng 2000 follow và khuyến mãi 10k lượt like + view toàn bộ sản phẩm</span></h3>
                                                 </div>
                                                 <div id="HEADLINE121" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Tăng 2500 follow và khuyến mãi 10k ~ 35k lượt like + view toàn bộ sản phẩm</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Tăng 3000 follow và khuyến mãi 20 ~ 35k lượt like + view toàn bộ sản phẩm</span></h3>
                                                 </div>
                                                 <div id="HEADLINE122" class="ladi-element">
                                                     <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Tăng 4000 follow và khuyến mãi 30k ~ 45k lượt like + view toàn bộ sản phẩm</span></h3>
@@ -935,16 +935,16 @@
                                             </div>
                                         </div>
                                         <div id="HEADLINE166" class="ladi-element">
-                                            <h3 class='ladi-headline'>150.000 VNĐ<br></h3>
-                                        </div>
-                                        <div id="HEADLINE167" class="ladi-element">
                                             <h3 class='ladi-headline'>200.000 VNĐ<br></h3>
                                         </div>
-                                        <div id="HEADLINE168" class="ladi-element">
+                                        <div id="HEADLINE167" class="ladi-element">
                                             <h3 class='ladi-headline'>300.000 VNĐ<br></h3>
                                         </div>
+                                        <div id="HEADLINE168" class="ladi-element">
+                                            <h3 class='ladi-headline'>350.000 VNĐ<br></h3>
+                                        </div>
                                         <div id="HEADLINE169" class="ladi-element">
-                                            <h3 class='ladi-headline'>400.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>450.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE170" class="ladi-element">
                                             <h3 class='ladi-headline'>700.000 VNĐ<br></h3>
