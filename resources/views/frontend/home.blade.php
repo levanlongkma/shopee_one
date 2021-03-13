@@ -947,7 +947,7 @@
                                             <h3 class='ladi-headline'>450.000 VNĐ<br></h3>
                                         </div>
                                         <div id="HEADLINE170" class="ladi-element">
-                                            <h3 class='ladi-headline'>700.000 VNĐ<br></h3>
+                                            <h3 class='ladi-headline'>800.000 VNĐ<br></h3>
                                         </div>
                                     </div>
                                 </div>
