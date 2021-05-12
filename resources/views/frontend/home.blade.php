@@ -800,19 +800,19 @@
                                         <div id="GROUP132" class="ladi-element">
                                             <div class='ladi-group'>
                                                 <div id="HEADLINE120" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 10 sản phẩm ~20 comment đánh giá chất lượng 5* ~200 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 7 sản phẩm ~14 comment đánh giá chất lượng 5* ~200 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE121" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 10 sản phẩm ~30 comment đánh giá chất lượng 5* ~400 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 7 sản phẩm ~21 comment đánh giá chất lượng 5* ~400 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE122" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff 10 sản phẩm ~40 comment đánh giá chất lượng 5* ~600 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 3: <span style="font-weight: normal;">Buff 7 sản phẩm ~28 comment đánh giá chất lượng 5* ~600 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE123" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff 20 sản phẩm ~60 comment đánh giá chất lượng 5* ~800 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 4: <span style="font-weight: normal;">Buff 14 sản phẩm ~42 comment đánh giá chất lượng 5* ~800 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE124" class="ladi-element">
-                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói ưu đãi 5:</span> Buff 20 sản phẩm ~80 comment đánh giá chất lượng 5* ~1200 lượt bán</h3>
+                                                    <h3 class='ladi-headline'><span style="font-weight: bold;">Gói ưu đãi 5:</span> Buff 14 sản phẩm ~56 comment đánh giá chất lượng 5* ~1200 lượt bán</h3>
                                                 </div>
                                                 <div id="HEADLINE125" class="ladi-element">
                                                     <h3 class='ladi-headline'><span style="font-weight: bold;">Gói đua top 1:</span> Buff 1-5 sản phẩm ~ 1000 lượt bán</h3>
