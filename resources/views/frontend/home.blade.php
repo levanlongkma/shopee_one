@@ -1549,10 +1549,10 @@
                             <h3 class='ladi-headline'>Địa chỉ : Thành Đỏ - Phúc Yên - Vĩnh Phúc&nbsp;</h3>
                         </div>
                         <div id="HEADLINE67" class="ladi-element">
-                            <h3 class='ladi-headline'>Hotline : 0869.178.297</h3>
+                            <h3 class='ladi-headline'>Hotline : 0978093540</h3>
                         </div>
                         <div id="HEADLINE68" class="ladi-element">
-                            <h3 class='ladi-headline'>Email : dichvushopeetb@gmail.com</h3>
+                            <h3 class='ladi-headline'>Email : dichvushopee@gmail.com</h3>
                         </div>
                         <div id="HEADLINE69" class="ladi-element">
                             <h3 class='ladi-headline'>THEO DÕI CHÚNG TÔI TRÊN MẠNG XÃ HỘI</h3>
