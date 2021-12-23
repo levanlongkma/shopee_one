@@ -2326,7 +2326,7 @@
             height: 85.84px;
             top: 0px;
             left: 0px;
-            background-image: url("/img/logo_tb.jpg");
+            background-image: url("/img/logo_tb.png");
         }
 
         #BOX76 {
@@ -3848,7 +3848,7 @@
             height: 295px;
             top: 0px;
             left: 0px;
-            background-image: url("/img/logo_tb.jpg");
+            background-image: url("/img/logo_tb.png");
         }
 
         #LINE263 {
@@ -5475,7 +5475,7 @@
             height: 69.84px;
             top: 0px;
             left: 0px;
-            background-image: url("/img/logo_tb.jpg");
+            background-image: url("/img/logo_tb.png");
         }
 
         #BOX76 {
@@ -6999,7 +6999,7 @@
             height: 115px;
             top: 0px;
             left: 0px;
-            background-image: url("/img/logo_tb.jpg");
+            background-image: url("/img/logo_tb.png");
         }
 
         #LINE263 {

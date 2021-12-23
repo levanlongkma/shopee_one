@@ -7,12 +7,12 @@
     <title>Dịch vụ Shopee - Uy tín - Chuyên nghiệp - An toàn</title>
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="-1">
-    <meta name="keywords" content="dich vu shopee, shopee tb, dịch vụ shopee">
+    <meta name="keywords" content="dich vu shopee, shopee , dịch vụ shopee">
     <meta name="description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shopee">
-    <meta property="og:url" content="http://www.dichvushopeetb.com" />
+    <meta property="og:url" content="http://www.dichvushopee.info" />
     <meta property="og:title" content="Dịch vụ shopee" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="/img/logo_tb.jpg">
+    <meta property="og:image" content="/img/logo_tb.png">
     <meta property="og:description" content="Cung cấp dịch vụ bán hàng hiệu quả trên Shopee" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="msvalidate.01" content="A6D0C0B7EE858196E4E1D854C2D7AE06" />
@@ -553,7 +553,7 @@
                         <div id="GROUP238" class="ladi-element">
                             <div class='ladi-group'>
                                 <div id="HEADLINE17" class="ladi-element">
-                                    <h3 class='ladi-headline'>GIỚI THIỆU VỀ DỊCH VỤ SHOPEE TB</h3>
+                                    <h3 class='ladi-headline'>GIỚI THIỆU VỀ DỊCH VỤ SHOPEE</h3>
                                 </div>
                                 <div id="HEADLINE21" class="ladi-element">
                                     <h3 class='ladi-headline'>Cung cấp dịch vụ hỗ trợ bán hàng hiệu quả trên Shopee&nbsp;</h3>
@@ -1171,7 +1171,7 @@
                     </div>
                 </div>
                 <div id="HEADLINE284" class="ladi-element">
-                    <h3 class='ladi-headline'>+10000 người đang sử dụng dịch vụ SHOPEE TB</h3>
+                    <h3 class='ladi-headline'>+10000 người đang sử dụng dịch vụ SHOPEE</h3>
                 </div>
                 <div id="GROUP317" class="ladi-element">
                     <div class='ladi-group'>
@@ -1405,12 +1405,12 @@
                                         <div class='ladi-form-item'>
                                             <div class="thrv_wrapper tve_image_caption" data-css="tve-u-173e8951a51" style="">
                                                 <span class="tve_image_frame">
-                                                    <img class="tve_image wp-image-121" alt="ky thuat" data-id="121" width="56" data-init-width="1280" height="56" data-init-height="1280" title="ky thuat" loading="lazy" src="/img/avt_tien.jpg" data-width="56" data-height="56" data-css="tve-u-173e8953c69" style="" sizes="(max-width: 56px) 100vw, 56px">
+                                                    <img class="tve_image wp-image-121" alt="ky thuat" data-id="121" width="56" data-init-width="1280" height="56" data-init-height="1280" title="ky thuat" loading="lazy" src="/img/avt_long.jpg" data-width="56" data-height="56" data-css="tve-u-173e8953c69" style="" sizes="(max-width: 56px) 100vw, 56px">
                                                 </span>
                                             </div>
                                             <div class="ladi-group">
                                                 <p data-css="tve-u-1747221ba34" style="margin-left: 91px; margin-top: -39px">
-                                                    <strong style="font-weight: bold"><span data-css="tve-u-1747221ba7a" style="color: rgb(232, 105, 48);">Đỗ Văn Tiến</span></strong>
+                                                    <strong style="font-weight: bold"><span data-css="tve-u-1747221ba7a" style="color: rgb(232, 105, 48);">Lê Văn Long</span></strong>
                                                 </p>
                                                 <p data-css="tve-u-173e8aa8ab2" style="margin-left: 91px; margin-top: 0px">
                                                     <span data-css="tve-u-1747221bac0" style="color: rgb(232, 105, 48);">Hỗ trợ kĩ thuật</span>
@@ -1426,13 +1426,13 @@
                                                                 </div>
                                                             </span>
                                                             <span class="tcb-button-texts">
-                                                                <span class="tcb-button-text thrv-inline-text" data-css="tve-u-173e89e6055" style="margin-left: 54px;margin-top: -27px;">0869178297</span>
+                                                                <span class="tcb-button-text thrv-inline-text" data-css="tve-u-173e89e6055" style="margin-left: 54px;margin-top: -27px;">0978093540</span>
                                                                 <span class="tcb-secondary-text thrv-inline-text"></span>
                                                             </span>
                                                         </a>
                                                     </div>
                                                     <div style="width: 177px;background: rgb(7, 150, 255) !important; border-radius: 8px;margin-left: 7px;">
-                                                        <a href="https://zalo.me/0869178297" class="tcb-button-link tcb-plain-text" style="letter-spacing: var(--tve-letter-spacing, 2px);">
+                                                        <a href="https://zalo.me/0978093540" class="tcb-button-link tcb-plain-text" style="letter-spacing: var(--tve-letter-spacing, 2px);">
                                                             <span class="tcb-button-icon">
                                                                 <div class="thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-icon-display" data-css="tve-u-173e8a39feb">
                                                                     <svg class="tcb-icon" viewBox="0 0 512 512" data-id="icon-link-solid" data-name="">
@@ -1506,7 +1506,7 @@
                             </form>
                         </div>
                         <div id="HEADLINE285" class="ladi-element">
-                            <h3 class='ladi-headline'>Liên hệ với chúng tôi , chỉ 3 phút DỊCH VỤ shopee tb sẽ điện lại và tư vấn những thắc mắc cho quý khách</h3>
+                            <h3 class='ladi-headline'>Liên hệ với chúng tôi , chỉ 3 phút DỊCH VỤ shopee  sẽ điện lại và tư vấn những thắc mắc cho quý khách</h3>
                         </div>
                         <div id="GROUP293" class="ladi-element">
                             <div class='ladi-group'>
@@ -1699,8 +1699,8 @@
     <div class="fb-customerchat"
         attribution=setup_tool
         page_id="185077411631892"
-        logged_in_greeting="Chào mừng bạn đến với dichvushopeetb. Chúng tôi có thể giúp gì cho bạn ?"
-        logged_out_greeting="Chào mừng bạn đến với dichvushopeetb. Chúng tôi có thể giúp gì cho bạn ?">
+        logged_in_greeting="Chào mừng bạn đến với dichvushopee. Chúng tôi có thể giúp gì cho bạn ?"
+        logged_out_greeting="Chào mừng bạn đến với dichvushopee. Chúng tôi có thể giúp gì cho bạn ?">
     </div>
 </body>
 
