@@ -800,7 +800,7 @@
                                         <div id="GROUP132" class="ladi-element">
                                             <div class='ladi-group'>
                                                 <div id="HEADLINE120" class="ladi-element">
-                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 10-20 sản phẩm có 20 comment đánh giá chất lượng 5* ~200 lượt bán</span></h3>
+                                                    <h3 class='ladi-headline'>Gói ưu đãi 1: <span style="font-weight: normal;">Buff 10-20 sản phẩm có 20 comment đánh giá chất lượng 5* ~300 lượt bán</span></h3>
                                                 </div>
                                                 <div id="HEADLINE121" class="ladi-element">
                                                     <h3 class='ladi-headline'>Gói ưu đãi 2: <span style="font-weight: normal;">Buff 10-20 sản phẩm có 30 comment đánh giá chất lượng 5* ~400 lượt bán</span></h3>
